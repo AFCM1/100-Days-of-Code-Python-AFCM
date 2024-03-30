@@ -10,4 +10,4 @@ Course link: https://www.udemy.com/course/100-days-of-code/
 
 Here's the list of all the mini-projects I have done during this bootcamp:
 
-Day 1 - Band Name Generator
+Day 1 - [Band Name Generator](https://github.com/AFCM1/100-Days-of-Code-Python-AFCM/tree/main/Beginner/Day_1)
