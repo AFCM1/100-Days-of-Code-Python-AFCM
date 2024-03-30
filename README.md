@@ -1,4 +1,4 @@
-# 100-Days-of-Code-Python-AFCM
+# 100 Days of Python
 
 To catch up on my Python skills, I'm currently following the "100 Days of Code - The Complete Python Pro Bootcamp" by Angela Yu on Udemy.
 
