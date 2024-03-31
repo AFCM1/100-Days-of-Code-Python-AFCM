@@ -1,3 +1,7 @@
 Topics
 
-Data Types, String manipulation
+Data Types
+Numbers
+Operations
+Type conversion
+f-Strings
