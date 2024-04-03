@@ -15,7 +15,8 @@ split = int(input("How many people to split the bill? "))
 tip2 = float(tip / 100)
 total_tip = total * tip2
 amount = (total + total_tip) / split
-amount = round(amount, 2)
+#amount = round(amount, 2)
+amount = "{:.2f}".format(amount) #to display the 0, turn the float into a string
 print(f"Each person should pay: ${amount}")
 
 #Angela version
