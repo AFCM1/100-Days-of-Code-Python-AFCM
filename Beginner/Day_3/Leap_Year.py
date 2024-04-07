@@ -4,12 +4,16 @@ year = int(input())
 
 # Write your code below this line 👇
 
-Divisible by 4 ? 
-No = Not leap
-Yes : 
-  Divisible by 100 ?
-    No = Leap
-    Yes :
-      Divisible by 400 ?
-        No = No Leap
-        Yes = Leap
+if year % 4 == 0:
+  if year % 100 == 0:
+    if year % 400 == 0:
+      print("Leap year")
+    else:
+      print("Not leap year")
+  else:
+    print("Leap year")
+else:
+  print("Not leap year")
+
+#Angela Version
+
