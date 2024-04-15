@@ -15,7 +15,7 @@ for number in range (0, target):
 #Angela Version
 
 target = 100
-for number in range(1, target + 1):
+for number in range(1, target + 1): # + 1 so it takes into account 100 otherwise it stops at 99
   if number % 3 == 0 and number % 5 == 0:
     print("FizzBuzz")
   elif number % 3 == 0:
