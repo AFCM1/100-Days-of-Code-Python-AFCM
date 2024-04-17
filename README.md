@@ -14,3 +14,4 @@ Day 1 - [Band Name Generator](https://github.com/AFCM1/100-Days-of-Code-Python-A
 Day 2 - [Tip Calculator](https://github.com/AFCM1/100-Days-of-Code-Python-AFCM/tree/main/Beginner/Day_2)  
 Day 3 - [Treasure Island](https://github.com/AFCM1/100-Days-of-Code-Python-AFCM/tree/main/Beginner/Day_3)  
 Day 4 - [Rock, Paper, Scissors](https://github.com/AFCM1/100-Days-of-Code-Python-AFCM/tree/main/Beginner/Day_4)
+Day 5 - [Password Generator](https://github.com/AFCM1/100-Days-of-Code-Python-AFCM/tree/main/Beginner/Day_5)
