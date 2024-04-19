@@ -78,3 +78,16 @@ for char in password_list:
   password += char
 
 print(f"Your password is: {password}")
+
+#Reasoning
+
+1 - Initialize an empty list
+2 - For loops where the range starts at 1 and ends at input letters/symbols/numbers + 1
+      Use the function append to add the result of random.choice(letters) to our empty_list
+3 - The result of each for loops will be added into the empty_list
+4 - Use of random.shuffle function to randomize the order of items in the list
+5 - Initialize an empty string
+6 - Add each item one by one in the empty string
+7 - By using a For char loop in list
+      empty string = empty string + char
+8 - Print final result
