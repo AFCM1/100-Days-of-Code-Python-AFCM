@@ -76,3 +76,14 @@ while nb_of_hurdles > 0:
     if at_goal():
         done()
     nb_of_hurdles -= 1
+
+#Angela version
+while at_goal() != True:
+    jump()
+
+or
+
+while not at_goal():
+    jump()
+
+
