@@ -59,3 +59,11 @@ for step in range(6):
     
     
 jump()
+
+#With While loop
+
+nb_of_hurdles = 6
+while nb_of_hurdles > 0:
+    jump()
+    nb_of_hurdles -= 1
+    print(nb_of_hurdles)
