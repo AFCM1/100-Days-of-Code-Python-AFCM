@@ -39,31 +39,23 @@ jump()
 
 #Shorter version
 
+def turn_right():
+    turn_left()
+    turn_left()
+    turn_left()
+    
 def jump():
     move()
-    jump_func()
-    jump_func()
-    jump_func()
-    jump_func()
-    jump_func()
-    turn_left_move()
-    turn_right_move()
-    turn_right_move()
-    
-def turn_left_move():
     turn_left()
     move()
+    turn_right()
+    move()
+    turn_right()
+    move()
+    turn_left()
 
-def turn_right_move():
-    turn_left()
-    turn_left()
-    turn_left()
-    move()  
+for step in range(6):
+    jump()
     
-def jump_func():
-    turn_left_move()
-    turn_right_move()
-    turn_right_move()
-    turn_left_move()
-
+    
 jump()
